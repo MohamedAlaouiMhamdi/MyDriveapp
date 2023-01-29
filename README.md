@@ -30,3 +30,12 @@ settings of profil image :
 
 <img width="141" alt="img" src="https://user-images.githubusercontent.com/98537138/215352800-53e492af-44d1-4212-a563-937f0e10f911.png">
 
+
+
+
+-wallet page :
+
+![Screenshot_20230129_091807](https://user-images.githubusercontent.com/121024642/215353621-899e259c-ebb6-480c-bb0b-b71b7dac5758.png)
+
+
+-support page :
