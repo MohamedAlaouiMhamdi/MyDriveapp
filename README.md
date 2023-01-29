@@ -39,3 +39,5 @@ settings of profil image :
 
 
 -support page :
+
+![Screenshot_20230129_091751](https://user-images.githubusercontent.com/121024642/215353711-e8d4a66f-4c9a-46b3-8202-288832ea7d0e.png)
