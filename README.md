@@ -17,7 +17,7 @@ this are the interfaces of our mobile application :
 
 -Activity page :
  
- ![Screenshot_20230129_090951](https://user-images.githubusercontent.com/121024642/215353337-11517def-9e07-4021-8efb-748f576cca44.png)
+ ![Screenshot_20230129_091512](https://user-images.githubusercontent.com/121024642/215353480-8226f88d-fed1-4836-8062-cf43a44f6537.png)
  
  
 -account page :
