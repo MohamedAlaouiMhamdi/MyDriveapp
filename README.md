@@ -9,3 +9,8 @@ this are the interfaces of our mobile application :
 -login interface :
  
  <img width="137" alt="Screenshot 2023-01-29 204612" src="https://user-images.githubusercontent.com/98537138/215351966-ed119035-db88-4da7-b37f-1ae3cb0f758f.png">
+
+-home page of the user
+ 
+ 
+![IMG-20230129-WA0013](https://user-images.githubusercontent.com/98537138/215352292-ca9c938c-389e-43dd-8cac-6e1b8b8bf59b.jpg)
