@@ -23,3 +23,10 @@ this are the interfaces of our mobile application :
 -account page :
 
 <img width="140" alt="acc" src="https://user-images.githubusercontent.com/98537138/215352550-cd12d0af-e3b5-4bc1-b791-d0fea06c832e.png">
+
+settings of profil image :
+
+
+
+<img width="141" alt="img" src="https://user-images.githubusercontent.com/98537138/215352800-53e492af-44d1-4212-a563-937f0e10f911.png">
+
