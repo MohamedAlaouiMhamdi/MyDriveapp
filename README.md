@@ -18,3 +18,8 @@ this are the interfaces of our mobile application :
 -Activity page :
  
  ![IMG-20230129-WA0009](https://user-images.githubusercontent.com/98537138/215352402-d4b919ce-6d8a-4428-88e9-3636c85b2ae7.jpg)
+ 
+ 
+-account page :
+
+<img width="140" alt="acc" src="https://user-images.githubusercontent.com/98537138/215352550-cd12d0af-e3b5-4bc1-b791-d0fea06c832e.png">
