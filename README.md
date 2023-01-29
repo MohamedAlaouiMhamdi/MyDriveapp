@@ -14,3 +14,7 @@ this are the interfaces of our mobile application :
  
  
 ![IMG-20230129-WA0013](https://user-images.githubusercontent.com/98537138/215352292-ca9c938c-389e-43dd-8cac-6e1b8b8bf59b.jpg)
+
+-Activity page :
+ 
+ ![IMG-20230129-WA0009](https://user-images.githubusercontent.com/98537138/215352402-d4b919ce-6d8a-4428-88e9-3636c85b2ae7.jpg)
